@@ -1,1 +1,1 @@
-# architectural.github.io
+# interior-websites.github.io
